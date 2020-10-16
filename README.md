@@ -15,6 +15,7 @@ Updated versions of the implementations that work on Matlab R2019b onwards as we
 <strong>BSM2</strong>\
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM2-990000?style=for-the-badge)](https://github.com/wwtmodels/Benchmark-Simulation-Models/releases/download/BSM2_v1/BSM2.zip) [![](https://img.shields.io/github/downloads/wwtmodels/Benchmark-Simulation-Models/BSM2_v1/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Benchmark-Simulation-Models) 
 
-
+The models are described in an IWA Scientific and Technical Report (open access)  
+[IWA publishing report on BSM](https://iwaponline.com/ebooks/book-pdf/650794/wio9781780401171.pdf)
 
 ![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
