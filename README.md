@@ -18,4 +18,4 @@ Updated versions of the implementations that work on Matlab R2019b onwards as we
 The models are described in an IWA Scientific and Technical Report (open access)  
 [IWA publishing report on BSM](https://iwaponline.com/ebooks/book-pdf/650794/wio9781780401171.pdf)
 
-![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
+![logo](logo.png)
