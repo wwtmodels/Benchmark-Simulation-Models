@@ -1,6 +1,6 @@
 # Benchmark Simulation Models
 
-This repository contains the different benchmark simulation models (BSM1, BSM2) developed by the IWA benchmarking task group.
+This repository contains the different benchmark simulation models (BSM1, BSM2) developed by The IWA task group on benchmarking of control strategies for WWTPs.
 Updated versions of the implementations that work on Matlab R2019b onwards as well as the older versions that work from Matlab R2006 upto R2019a are available.
 
 <strong>BSM1_R2019b</strong>\
