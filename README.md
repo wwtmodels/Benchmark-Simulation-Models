@@ -20,4 +20,4 @@ The below versions work from Matlab versions R2006a to R2019a.
 The models are described in an IWA Scientific and Technical Report (open access)  
 [Gernaey, K. V., Jeppsson, U., Vanrolleghem, P. A., & Copp, J. B. (Eds.). (2014). Benchmarking of Control Strategies for Wastewater Treatment Plants. Scientific and Technical Report No. 23, IWA Publishing, London, UK](https://iwaponline.com/ebooks/book-pdf/650794/wio9781780401171.pdf)
 
-![logo](logo.png)
+![logo](WWTMlogo.png)
